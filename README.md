@@ -1,0 +1,7 @@
+# Net-Framework-and-Net-Core
+proyectos personales
+
+ - CRUD UTILIZANDO ASP.NET (NET FRAMEWORK)
+ - UTILIZNDO SP
+ - SQL SERVER 2014
+ - ARQUITECTURA 4 CAPAS
